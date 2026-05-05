@@ -1,5 +1,3 @@
 ircfspace/teleMirror
 
 ircfspace/teleMirror|tele-mirror-x64-win.zip
-
-ircfspace/teleMirror|win
